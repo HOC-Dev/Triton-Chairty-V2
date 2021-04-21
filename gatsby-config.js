@@ -38,7 +38,7 @@ module.exports = {
 				typeName: "WORDPRESS",
 				fieldName: "wordpress",
 				// Url to query from (the wp website)
-				url: "http://charityv2.local/graphql",
+				url: "http://charitytriton.local/graphql",
 				refetchInterval: 120,
 			},
 		},
